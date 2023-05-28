@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e6c1b83.css",
+    "main.js": "/static/js/main.d31175f2.js",
+    "static/js/787.a0afb5c9.chunk.js": "/static/js/787.a0afb5c9.chunk.js",
+    "static/media/staduim.png": "/static/media/staduim.69af63348bdb1984adc8.png",
+    "static/media/WhatsApp Image 2023-05-12 at 00.13.27.jpeg": "/static/media/WhatsApp Image 2023-05-12 at 00.13.27.d5ec5a23feb5d2b0323e.jpeg",
+    "static/media/leagues.png": "/static/media/leagues.c379e343716189576a6e.png",
+    "index.html": "/index.html",
+    "main.6e6c1b83.css.map": "/static/css/main.6e6c1b83.css.map",
+    "main.d31175f2.js.map": "/static/js/main.d31175f2.js.map",
+    "787.a0afb5c9.chunk.js.map": "/static/js/787.a0afb5c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e6c1b83.css",
+    "static/js/main.d31175f2.js"
+  ]
+}
